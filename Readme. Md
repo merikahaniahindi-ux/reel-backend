@@ -1,0 +1,8 @@
+# Reel Backend
+
+Basic Node.js/Express backend jo Razorpay payments handle karta hai.
+
+## Setup
+1. npm install
+2. .env file banayein, RAZORPAY_KEY_ID aur RAZORPAY_KEY_SECRET daalein
+3. npm start
